@@ -54,7 +54,7 @@ python3 run_train_punc.py --model_name_or_path=bert-base-multilingual-cased \
 <!-- CONTACT -->
 ## Contact
 
-Hieu Tran - heraclex12@gmail.com
+Duy Ta - heraclex12@gmail.com
 
 Code for paper [An Efficient Transformer-Based Model for Vietnamese Punctuation Prediction](https://link.springer.com/chapter/10.1007/978-3-030-79463-7_5)
 
